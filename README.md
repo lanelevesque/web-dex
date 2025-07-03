@@ -23,14 +23,15 @@ npm run dev
 The front end is now accessible at: http://localhost:5173/
 
 Now, we will run the backend locally.
-Press CTRL+C to enter more commands.
+
+Open a new terminal window & navigate back to the web-dex directory.
 
 Now, run the following commands.
 
 ```
-cd ../express-pokedex
+cd express-pokedex
 npm install
 npm start
 ```
 
-The backend is now running and available at http://localhost:5173/
+The backend is now running and available at http://127.0.0.1:3000
